@@ -48,8 +48,7 @@ https://w3c-ccg.github.io/did-spec/
     - 단위비용 천원
 
 ## 결론 : 시장의 상승폭, 단위 비용 또한 증가
-- 출처
-[DID자료](https://medium.com/@bennedict.jung/did-market-domestic-korean-market-size-1-645b137bb04a "DID자료")
+출처 : [DID자료](https://medium.com/@bennedict.jung/did-market-domestic-korean-market-size-1-645b137bb04a "DID자료")
 
 # DID Process
 ## DID등록
